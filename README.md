@@ -2,8 +2,8 @@
 
 Off the top of my head thoughts
 
-- [ ] Create a bootable flash drive
-Try out Middleman
+- [x] Create a bootable flash drive
+- [x] Try out Middleman
 - [ ] Best way to setup home security system
 - [ ] Roll your own VPN
 - [ ] Build automated bot to do things
