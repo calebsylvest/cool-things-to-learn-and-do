@@ -19,8 +19,15 @@ Off the top of my head thoughts
 - [ ] Create something to automate property tax response on a mass scale
 - [ ] Get or build a small drone
 - [ ] Build a computer
-- [ ] [Hackbook}(https://www.pine64.org/?page_id=3707)
+- [ ] [Hackbook](https://www.pine64.org/?page_id=3707)
 - [ ] [Tiny Camera](https://www.amazon.com/ZOTER-Camera-Pinhole-Security-Surveillance/dp/B071NZ4XPX/ref=as_li_ss_tl?s=photo&ie=UTF8&qid=1501862550&sr=1-2&keywords=screw+camera&linkCode=sl1&tag=bngbng-20&linkId=df2bbf81ab7120635475371cd18ebd0a)
-Check out memory hacks and memory palace
-[USB Driveby](http://samy.pl/usbdriveby/)
-[Keysweeper](https://samy.pl/keysweeper/)
+- [ ] Check out memory hacks and memory palace
+- [ ] [USB Driveby](http://samy.pl/usbdriveby/)
+- [ ] [Keysweeper](https://samy.pl/keysweeper/)
+- [ ] Basics of Jiu Jitsu
+- [ ] Solve a Rubik's cube
+- [ ] How to write in shorthand
+- [ ] Quantified Self
+- [ ] Map my DNA
+- [ ] Learn CPR
+- [ ] Count cards
