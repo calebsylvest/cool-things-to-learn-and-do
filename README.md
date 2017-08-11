@@ -28,6 +28,8 @@ Off the top of my head thoughts
 - [ ] Solve a Rubik's cube
 - [ ] How to write in shorthand
 - [ ] Quantified Self
-- [ ] Map my DNA
+  - [ ] Map my DNA
+  - [ ] [Microbiome Test](https://ubiome.com/)
+  - [ ] [Quantified Mind](http://www.quantified-mind.com/)
 - [ ] Learn CPR
 - [ ] Count cards
