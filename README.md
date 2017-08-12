@@ -33,3 +33,6 @@ Off the top of my head thoughts
   - [ ] [Quantified Mind](http://www.quantified-mind.com/)
 - [ ] Learn CPR
 - [ ] Count cards
+- [ ] Take an improve class
+- [ ] Try cryotherapy
+
