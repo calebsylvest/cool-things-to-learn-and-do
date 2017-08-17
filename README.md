@@ -36,4 +36,6 @@ Off the top of my head thoughts
 - [ ] Count cards
 - [ ] Take an inprove class
 - [ ] Try cryotherapy
-
+- [ ] Passive income
+  - [ ] Sell bookbinding classes on other platforms
+  - [ ] [Sell more stuff on Society6](https://www.skillshare.com/classes/Creating-Art-that-Sells-A-Working-Artist%E2%80%99s-Guide/2139207703?via=browse-rating-all-layout-grid)
