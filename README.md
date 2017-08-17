@@ -11,6 +11,7 @@ Off the top of my head thoughts
 - [ ] How to trade Ether?
 - [ ] [Build a chatbot](https://github.com/botui/botui)
 - [ ] Build an automated stock market tool
+  - [Algo Trading 101](https://algotrading101.com/)
 - [ ] Learn how to pick a lock
 - [ ] Alfred Workflows to automate Game Mode and Dev Mode
 - [ ] Ability to record audio for all phone and video calls
@@ -33,6 +34,6 @@ Off the top of my head thoughts
   - [ ] [Quantified Mind](http://www.quantified-mind.com/)
 - [ ] Learn CPR
 - [ ] Count cards
-- [ ] Take an improve class
+- [ ] Take an inprove class
 - [ ] Try cryotherapy
 
