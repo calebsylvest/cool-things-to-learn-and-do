@@ -44,6 +44,7 @@ Off the top of my head thoughts
 - [ ] Passive income
   - [ ] Sell bookbinding classes on other platforms
   - [ ] [Sell more stuff on Society6](https://www.skillshare.com/classes/Creating-Art-that-Sells-A-Working-Artist%E2%80%99s-Guide/2139207703?via=browse-rating-all-layout-grid)
+    - [Free Japanese Prints](https://www.loc.gov/collections/japanese-fine-prints-pre-1915/about-this-collection/)
 - Software
   - [Fun Terminal Hacks](http://makezine.com/projects/fun-terminal-hacks-for-mac/)
 - Hardware
@@ -54,4 +55,6 @@ Off the top of my head thoughts
   - [ISP Monitor](http://makezine.com/projects/send-ticket-isp-when-your-internet-drops/)
   - [IR Jammmer](http://www.instructables.com/id/IR-Remote-Control-Jammer/)
   - [Geiger Counter](http://makezine.com/projects/geiger-counter-kit/)
+- Education
+  - [Introduction to Computer Science at Harvard](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.U7CIk7GO3Ya)
   
