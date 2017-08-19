@@ -6,6 +6,10 @@ Off the top of my head thoughts
 - [x] Try out Middleman
 - [ ] Best way to setup home security system
 - [ ] Roll your own VPN
+  - [TechCrunch Tutorial](https://techcrunch.com/2017/04/09/how-i-made-my-own-vpn-server-in-15-minutes/)
+  - [Turn an Old Mac into a VPN](https://lifehacker.com/turn-an-old-mac-into-a-cheap-vpn-with-os-x-server-1743411938)
+  - [Make a VPN](https://lifehacker.com/5900969/build-your-own-vpn-to-pimp-out-your-gaming-streaming-remote-access-and-oh-yeah-security)
+  - [Raspberry Pi VPN](http://makezine.com/projects/browse-anonymously-with-a-diy-raspberry-pi-vpntor-router/?utm_source=feedburner&utm_medium=%24%7Bfeed%7D&utm_campaign=Feed%3A+%24%7Bmakezineonline%7D+%28%24%7BMAKE%7D%29&utm_content=%24%7BGoogleReader%7D)
 - [ ] Build automated bot to do things
   - Use [Mechanize](https://github.com/sparklemotion/mechanize)
 - [ ] Build something with Ethereum
@@ -40,3 +44,14 @@ Off the top of my head thoughts
 - [ ] Passive income
   - [ ] Sell bookbinding classes on other platforms
   - [ ] [Sell more stuff on Society6](https://www.skillshare.com/classes/Creating-Art-that-Sells-A-Working-Artist%E2%80%99s-Guide/2139207703?via=browse-rating-all-layout-grid)
+- Software
+  - [Fun Terminal Hacks](http://makezine.com/projects/fun-terminal-hacks-for-mac/)
+- Hardware
+  - [Tiny GPS](http://makezine.com/projects/make-37/gps-cat-tracker-2/)
+  - [LibraryBox](http://makezine.com/projects/make-37/librarybox/)
+  - [How to Bake an Onion Pi](http://makezine.com/projects/make-36-boards/how-to-bake-an-onion-pi/)
+  - [Raspberry Pi Linux Pocket Laptop](http://makezine.com/projects/build-raspberry-pi-powered-linux-laptop-that-fits-your-pocket/)
+  - [ISP Monitor](http://makezine.com/projects/send-ticket-isp-when-your-internet-drops/)
+  - [IR Jammmer](http://www.instructables.com/id/IR-Remote-Control-Jammer/)
+  - [Geiger Counter](http://makezine.com/projects/geiger-counter-kit/)
+  
