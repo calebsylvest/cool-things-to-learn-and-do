@@ -7,6 +7,7 @@ Off the top of my head thoughts
 - [ ] Best way to setup home security system
 - [ ] Roll your own VPN
 - [ ] Build automated bot to do things
+  - Use [Mechanize](https://github.com/sparklemotion/mechanize)
 - [ ] Build something with Ethereum
 - [ ] How to trade Ether?
 - [ ] [Build a chatbot](https://github.com/botui/botui)
