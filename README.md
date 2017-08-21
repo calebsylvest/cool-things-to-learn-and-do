@@ -62,4 +62,9 @@
 
 ### Education
 - [Introduction to Computer Science at Harvard](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.U7CIk7GO3Ya)
-  
+
+### Crafty
+- - [ ] [Bicycle Bag](https://www.pinterest.com/pin/471470654722749100/)
+- - [ ] [Plywood Desk Organizer](http://www.hometreeatlas.com/5466/diy-organization-bloks-made-out-of-plywood-bedroom-and-desk-editions/)
+- - [ ] Build a clock
+- - [ ] [DIY Pegboard](https://www.pinterest.com/pin/471470654731554566/)
