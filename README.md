@@ -1,7 +1,7 @@
 # cool-things-to-learn-and-do
 
 
-- - [x] Create a bootable flash drive
+- - [x] [Create a bootable flash drive](https://docs.kali.org/downloading/kali-linux-live-usb-install)
 - - [x] Try out Middleman
 - - [ ] Build automated bot to do things
   - Use [Mechanize](https://github.com/sparklemotion/mechanize)
