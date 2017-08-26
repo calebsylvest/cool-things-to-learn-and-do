@@ -59,6 +59,7 @@
   - [Turn an Old Mac into a VPN](https://lifehacker.com/turn-an-old-mac-into-a-cheap-vpn-with-os-x-server-1743411938)
   - [Make a VPN](https://lifehacker.com/5900969/build-your-own-vpn-to-pimp-out-your-gaming-streaming-remote-access-and-oh-yeah-security)
   - [Raspberry Pi VPN](http://makezine.com/projects/browse-anonymously-with-a-diy-raspberry-pi-vpntor-router/?utm_source=feedburner&utm_medium=%24%7Bfeed%7D&utm_campaign=Feed%3A+%24%7Bmakezineonline%7D+%28%24%7BMAKE%7D%29&utm_content=%24%7BGoogleReader%7D)
+- [ ] [Build an SNES with Raspberry Pi](http://makezine.com/projects/build-retro-gaming-console-raspberry-pi/)
 
 ### Education
 - [Introduction to Computer Science at Harvard](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.U7CIk7GO3Ya)
