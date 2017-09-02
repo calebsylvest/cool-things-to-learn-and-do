@@ -21,10 +21,6 @@
 - - [ ] Basics of Jiu Jitsu
 - - [ ] Solve a Rubik's cube
 - - [ ] How to write in shorthand
-- - [ ] Quantified Self
-  - [ ] Map my DNA
-  - [ ] [Microbiome Test](https://ubiome.com/)
-  - [ ] [Quantified Mind](http://www.quantified-mind.com/)
 - - [ ] Learn CPR
 - - [ ] Count cards
 - - [ ] Take an inprove class
@@ -69,3 +65,9 @@
 - - [ ] [Plywood Desk Organizer](http://www.hometreeatlas.com/5466/diy-organization-bloks-made-out-of-plywood-bedroom-and-desk-editions/)
 - - [ ] Build a clock
 - - [ ] [DIY Pegboard](https://www.pinterest.com/pin/471470654731554566/)
+
+### Quantified Self
+- Info at [Quantified Bob](https://www.quantifiedbob.com/)
+- - [ ] Map my DNA
+- - [ ] [Microbiome Test](https://ubiome.com/)
+- - [ ] [Quantified Mind](http://www.quantified-mind.com/)
