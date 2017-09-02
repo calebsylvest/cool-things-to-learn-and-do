@@ -68,6 +68,14 @@
 
 ### Quantified Self
 - Info at [Quantified Bob](https://www.quantifiedbob.com/)
+- - [ ] Dashoard for data
 - - [ ] Map my DNA
 - - [ ] [Microbiome Test](https://ubiome.com/)
 - - [ ] [Quantified Mind](http://www.quantified-mind.com/)
+- Water
+- Vitamins & Meds
+- Headaches
+- Mood
+- Daily activity
+- Nutrition
+- Photo or video
