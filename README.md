@@ -69,6 +69,7 @@
 - [ ] [Bitcoin Lottery](http://www.instructables.com/id/DIY-Bitcoin-Lottery-With-Raspberry-Pi/)
 - [ ] [Raspberry Pi Compact Camera](http://www.instructables.com/id/Raspberry-Pi-Compact-Camera/)
 - [ ] [Raspberry Pi Solar Weather Station](http://www.instructables.com/id/Raspberry-Pi-Solar-Weather-Station/)
+- [List of things](http://www.itpro.co.uk/mobile/21862/raspberry-pi-top-29-projects-to-try-yourself)
 
 
 ### Education
