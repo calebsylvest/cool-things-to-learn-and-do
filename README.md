@@ -52,6 +52,7 @@
 ### Raspberry Pi
 - [ ] [Tiny GPS](http://makezine.com/projects/make-37/gps-cat-tracker-2/)
 - [ ] [LibraryBox](http://makezine.com/projects/make-37/librarybox/)
+- [ ] [PirateBox](http://www.instructables.com/id/Raspberry-Pi-PirateBox/)
 - [ ] [How to Bake an Onion Pi](http://makezine.com/projects/make-36-boards/how-to-bake-an-onion-pi/)
 - [ ] [Raspberry Pi Linux Pocket Laptop](http://makezine.com/projects/build-raspberry-pi-powered-linux-laptop-that-fits-your-pocket/)
 - [x] [ISP Monitor](http://makezine.com/projects/send-ticket-isp-when-your-internet-drops/)
@@ -59,6 +60,16 @@
 - [ ] [Raspberry Pi VPN](http://makezine.com/projects/browse-anonymously-with-a-diy-raspberry-pi-vpntor-router/?utm_source=feedburner&utm_medium=%24%7Bfeed%7D&utm_campaign=Feed%3A+%24%7Bmakezineonline%7D+%28%24%7BMAKE%7D%29&utm_content=%24%7BGoogleReader%7D)
 - [ ] [Build an SNES with Raspberry Pi](http://makezine.com/projects/build-retro-gaming-console-raspberry-pi/)
 - [ ] [Car Dashboard](http://makezine.com/2015/06/29/makers-dashboard/)
+- [ ] [Crypto Currency Tracker](http://makezine.com/projects/make-43/crypto-currency-tracker/)
+- [ ] [Make Your Own Cloud](http://makezine.com/2013/11/12/make-your-own-cloud-with-raspberry-pi-and-arkos/)
+- [ ] [Raspberry Leaf](http://www.doctormonk.com/2013/02/raspberry-pi-and-breadboard-raspberry.html)
+- [ ] [On Switch](http://www.doctormonk.com/2017/01/on-switch-for-raspberry-pi.html)
+- [ ] [Raspberry Pi Cardboard Case](http://www.instructables.com/id/Design-Modelling-your-own-Raspberry-Pi-case-out-/)
+- [ ] [$10 Copper Case](http://www.instructables.com/id/Easy-10-Copper-Raspberry-Pi-Case/)
+- [ ] [Bitcoin Lottery](http://www.instructables.com/id/DIY-Bitcoin-Lottery-With-Raspberry-Pi/)
+- [ ] [Raspberry Pi Compact Camera](http://www.instructables.com/id/Raspberry-Pi-Compact-Camera/)
+- [ ] [Raspberry Pi Solar Weather Station](http://www.instructables.com/id/Raspberry-Pi-Solar-Weather-Station/)
+
 
 ### Education
 - [Introduction to Computer Science at Harvard](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.U7CIk7GO3Ya)
