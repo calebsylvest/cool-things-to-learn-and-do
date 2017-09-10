@@ -40,7 +40,7 @@
 - [ ] Best way to setup home security system
 
 ### Software
-- [Fun Terminal Hacks](http://makezine.com/projects/fun-terminal-hacks-for-mac/)
+- [Over the Wire](http://overthewire.org/)
 
 ### Hardware
 - [ ] [IR Jammmer](http://www.instructables.com/id/IR-Remote-Control-Jammer/)
