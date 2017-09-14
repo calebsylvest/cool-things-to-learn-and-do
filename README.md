@@ -43,11 +43,13 @@
 - [Over the Wire](http://overthewire.org/)
 
 ### Hardware
+- [ ] [Three Penny Radio](http://scitoys.com/scitoys/scitoys/radio/three_penny/three_penny.html)
 - [ ] [IR Jammmer](http://www.instructables.com/id/IR-Remote-Control-Jammer/)
 - [ ] [Hackbook](https://www.pine64.org/?page_id=3707)
 - [ ] [Tiny Camera](https://www.amazon.com/ZOTER-Camera-Pinhole-Security-Surveillance/dp/B071NZ4XPX/ref=as_li_ss_tl?s=photo&ie=UTF8&qid=1501862550&sr=1-2&keywords=screw+camera&linkCode=sl1&tag=bngbng-20&linkId=df2bbf81ab7120635475371cd18ebd0a)
 - [ ] Get or build a small drone
 - [ ] Build a computer
+- [ ] [MicroReader](https://hackaday.io/project/532-microreader)
 
 ### Raspberry Pi
 - [ ] [Tiny GPS](http://makezine.com/projects/make-37/gps-cat-tracker-2/)
@@ -72,6 +74,7 @@
 - [ ] [Bitcoin Lottery](http://www.instructables.com/id/DIY-Bitcoin-Lottery-With-Raspberry-Pi/)
 - [ ] [Raspberry Pi Compact Camera](http://www.instructables.com/id/Raspberry-Pi-Compact-Camera/)
 - [ ] [Raspberry Pi Solar Weather Station](http://www.instructables.com/id/Raspberry-Pi-Solar-Weather-Station/)
+- [ ] [City Air Quality](https://hackaday.io/project/8334-city-air-quality)
 - [List of things](http://www.itpro.co.uk/mobile/21862/raspberry-pi-top-29-projects-to-try-yourself)
 - [Awesome Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi)
 
