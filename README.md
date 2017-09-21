@@ -77,6 +77,7 @@
 - [ ] [City Air Quality](https://hackaday.io/project/8334-city-air-quality)
 - [List of things](http://www.itpro.co.uk/mobile/21862/raspberry-pi-top-29-projects-to-try-yourself)
 - [Awesome Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi)
+- [ ] [Mine Monero](https://andypi.co.uk/2017/07/01/mining-monero-xmr-crypto-currency-on-raspberry-pi/)
 
 ### Education
 - [Introduction to Computer Science at Harvard](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.U7CIk7GO3Ya)
