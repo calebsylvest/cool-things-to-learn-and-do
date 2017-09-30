@@ -75,6 +75,7 @@
 - [ ] [Raspberry Pi Compact Camera](http://www.instructables.com/id/Raspberry-Pi-Compact-Camera/)
 - [ ] [Raspberry Pi Solar Weather Station](http://www.instructables.com/id/Raspberry-Pi-Solar-Weather-Station/)
 - [ ] [City Air Quality](https://hackaday.io/project/8334-city-air-quality)
+- [ ] [Simple Air Quality Device](https://airquality406.wordpress.com/instructions/)
 - [List of things](http://www.itpro.co.uk/mobile/21862/raspberry-pi-top-29-projects-to-try-yourself)
 - [Awesome Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi)
 - [ ] [Mine Monero](https://andypi.co.uk/2017/07/01/mining-monero-xmr-crypto-currency-on-raspberry-pi/)
