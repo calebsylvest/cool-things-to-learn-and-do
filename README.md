@@ -1,29 +1,29 @@
 # cool-things-to-learn-and-do
 
-- - [ ] [Try Gatsby](https://www.gatsbyjs.org/blog/2017-12-06-gatsby-plus-contentful-plus-netlify/)
-- - [x] [Create a bootable flash drive](https://docs.kali.org/downloading/kali-linux-live-usb-install)
-- - [x] Try out Middleman
-- - [ ] Build automated bot to do things
+- [ ] [Try Gatsby](https://www.gatsbyjs.org/blog/2017-12-06-gatsby-plus-contentful-plus-netlify/)
+- [x] [Create a bootable flash drive](https://docs.kali.org/downloading/kali-linux-live-usb-install)
+- [x] Try out Middleman
+- [ ] Build automated bot to do things
   - Use [Mechanize](https://github.com/sparklemotion/mechanize)
-- - [ ] Build something with Ethereum
-- - [ ] How to trade Ether?
-- - [ ] [Build a chatbot](https://github.com/botui/botui)
-- - [ ] Build an automated stock market tool
+- [ ] Build something with Ethereum
+- [ ] How to trade Ether?
+- [ ] [Build a chatbot](https://github.com/botui/botui)
+- [ ] Build an automated stock market tool
   - [Algo Trading 101](https://algotrading101.com/)
-- - [ ] Learn how to pick a lock
-- - [ ] Alfred Workflows to automate Game Mode and Dev Mode
-- - [ ] Ability to record audio for all phone and video calls
+- [ ] Learn how to pick a lock
+- [ ] Alfred Workflows to automate Game Mode and Dev Mode
+- [ ] Ability to record audio for all phone and video calls
   - [Soundflower](https://github.com/mattingalls/Soundflower)
-- - [ ] Publish an iOS and Android app
-- - [ ] Create something to automate property tax response on a mass scale
-- - [ ] Check out memory hacks and memory palace
-- - [ ] Basics of Jiu Jitsu
-- - [ ] Solve a Rubik's cube
-- - [ ] How to write in shorthand
-- - [ ] Learn CPR
-- - [ ] Count cards
-- - [ ] Take an inprove class
-- - [ ] Try cryotherapy
+- [ ] Publish an iOS and Android app
+- [ ] Create something to automate property tax response on a mass scale
+- [ ] Check out memory hacks and memory palace
+- [ ] Basics of Jiu Jitsu
+- [ ] Solve a Rubik's cube
+- [ ] How to write in shorthand
+- [ ] Learn CPR
+- [ ] Count cards
+- [ ] Take an inprove class
+- [ ] Try cryotherapy
 
 ### Passive income
   - [ ] Sell bookbinding classes on other platforms
