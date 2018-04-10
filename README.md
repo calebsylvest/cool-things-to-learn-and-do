@@ -1,6 +1,6 @@
 # cool-things-to-learn-and-do
 
-- [ ] [Try Gatsby](https://www.gatsbyjs.org/blog/2017-12-06-gatsby-plus-contentful-plus-netlify/)
+- [x] [Try Gatsby](https://www.gatsbyjs.org/blog/2017-12-06-gatsby-plus-contentful-plus-netlify/)
 - [x] [Create a bootable flash drive](https://docs.kali.org/downloading/kali-linux-live-usb-install)
 - [x] Try out Middleman
 - [ ] Build automated bot to do things
