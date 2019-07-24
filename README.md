@@ -1,4 +1,4 @@
-# cool-things-to-learn-and-do
+# Cool Things to Learn and Do
 
 - [x] [Try Gatsby](https://www.gatsbyjs.org/blog/2017-12-06-gatsby-plus-contentful-plus-netlify/)
 - [x] [Create a bootable flash drive](https://docs.kali.org/downloading/kali-linux-live-usb-install)
@@ -84,17 +84,17 @@
 - [Introduction to Computer Science at Harvard](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.U7CIk7GO3Ya)
 
 ### Crafty
-- - [ ] [Bicycle Bag](https://www.pinterest.com/pin/471470654722749100/)
-- - [ ] [Plywood Desk Organizer](http://www.hometreeatlas.com/5466/diy-organization-bloks-made-out-of-plywood-bedroom-and-desk-editions/)
-- - [ ] Build a clock
-- - [ ] [DIY Pegboard](https://www.pinterest.com/pin/471470654731554566/)
+- [ ] [Bicycle Bag](https://www.pinterest.com/pin/471470654722749100/)
+- [ ] [Plywood Desk Organizer](http://www.hometreeatlas.com/5466/diy-organization-bloks-made-out-of-plywood-bedroom-and-desk-editions/)
+- [ ] Build a clock
+- [ ] [DIY Pegboard](https://www.pinterest.com/pin/471470654731554566/)
 
 ### Quantified Self
 - Info at [Quantified Bob](https://www.quantifiedbob.com/)
-- - [ ] Dashoard for data
-- - [ ] Map my DNA
-- - [ ] [Microbiome Test](https://ubiome.com/)
-- - [ ] [Quantified Mind](http://www.quantified-mind.com/)
+- [ ] Dashoard for data
+- [ ] Map my DNA
+- [ ] [Microbiome Test](https://ubiome.com/)
+- [ ] [Quantified Mind](http://www.quantified-mind.com/)
 - Water
 - Vitamins & Meds
 - Headaches
