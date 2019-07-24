@@ -87,7 +87,12 @@
 - [ ] [Bicycle Bag](https://www.pinterest.com/pin/471470654722749100/)
 - [ ] [Plywood Desk Organizer](http://www.hometreeatlas.com/5466/diy-organization-bloks-made-out-of-plywood-bedroom-and-desk-editions/)
 - [ ] Build a clock
-- [ ] [DIY Pegboard](https://www.pinterest.com/pin/471470654731554566/)
+- [x] [DIY Pegboard](https://www.pinterest.com/pin/471470654731554566/)
+- [ ] Build a watch
+- [ ] Design a watch face
+- [ ] Build a bike
+- [ ] Make a knife
+- [ ] Home/Life Automation
 
 ### Quantified Self
 - Info at [Quantified Bob](https://www.quantifiedbob.com/)
